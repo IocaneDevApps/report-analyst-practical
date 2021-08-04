@@ -1,0 +1,25 @@
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.AssemblyInfoInputs.cache
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.AssemblyInfo.vb
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.vbproj.CoreCompileInputs.cache
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.exe
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.deps.json
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.runtimeconfig.json
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.runtimeconfig.dev.json
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.dll
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.pdb
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.dll
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.pdb
+C:\Users\Tom Aylen\source\repos\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.genruntimeconfig.cache
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.exe
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.deps.json
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.runtimeconfig.json
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.runtimeconfig.dev.json
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.dll
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\bin\Debug\netcoreapp3.1\VB Practical.pdb
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.vbprojAssemblyReference.cache
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.AssemblyInfoInputs.cache
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.AssemblyInfo.vb
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.vbproj.CoreCompileInputs.cache
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.dll
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.pdb
+C:\test app\Iocane Report Analysis Practical\Iocane Report Analysis Practical\VB Practical\obj\Debug\netcoreapp3.1\VB Practical.genruntimeconfig.cache
